@@ -1,8 +1,8 @@
 # Examén #1 - BUG372 - 🐛
 
-> __Nombre:__ 👉 *(Cambiar por su nombre aqui)*
+> __Nombre:__ 👉 *Leonardo Daniel Pastor Reyes*
 >
-> __Apodo:__ 👉 *(Escribir su sobrenombre)*
+> __Apodo:__ 👉 *LeoDPR*
 >
 >
 ---
